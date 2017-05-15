@@ -1,0 +1,11 @@
+Player,Year
+Stephen Curry,2016
+Stephen Curry,2015
+Kevin Durant,2014
+Lebron James,2013
+Lebron James,2012
+Derrick Rose,2011
+Lebron James,2010
+Lebron James,2009
+Kobe Bryant,2008
+Dirk Nowitzki,2007

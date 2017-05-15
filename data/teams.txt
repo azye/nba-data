@@ -1,0 +1,59 @@
+Abbrev,Name,City,State
+ATL,Atlanta Hawks,Atlanta,GA
+BAL,Baltimore Bullets,Baltimore,MD
+BOS,Boston Celtics,Boston,MA
+BUF,Buffalo Braves,Buffalo,NY
+CAP,Capital Bullets,Washington,DC
+CHA,Charlotte Bobcats,Charlotte,NC
+CHI,Chicago Bulls,Chicago,IL
+CHP,Chicago Packers,Chicago,IL
+CHZ,Chicago Zephyrs,Chicago,IL
+CIN,Cincinnati Royals,Cincinnati,OH
+CLE,Cleveland Cavaliers,Cleveland,OH
+DAL,Dallas Mavericks,Dallas,TX
+DEN,Denver Nuggets,Denver,CO
+DET,Detroit Pistons,Detroit,MI
+FTW,Fort Wayne Pistons,Fort Wayne,MI
+GSW,Golden State Warriors,Oakland,CA
+HOU,Houston Rockets,Houston,TX
+IND,Indiana Pacers,Indianapolis,IN
+KCK,Kansas City Kings,Kansas City,KS
+KCO,Kansas City-Omaha Kings,Kansas City,KS
+LAC,Los Angeles Clippers,Los Angeles,CA
+LAL,Los Angeles Lakers,Los Angeles,CA
+MEM,Memphis Grizzlies,Memphis,TN
+MIA,Miami Heat,Miami,FL
+MIL,Milwaukee Bucks,Milwaukee,WI
+MIN,Minnesota Timberwolves,Minneapolis,MN
+MLH,Milwaukee Hawks,Milwaukee,WI
+MPL,Minneapolis Lakers,Minneapolis,MN
+NJN,New Jersey Nets,New Jersey,NJ
+NOH,New Orleans Hornets,New Orleans,LA
+NOJ,New Orleans Jazz,New Orleans,LA
+NOK,New Orleans-Oklahoma City Hornets,New Orleans,LA
+NYK,New York Knicks,New York City,NY
+NYN,New York Nets,New York City,NY
+OKC,Oklahoma City Thunder,Oklahoma City,OK
+ORL,Orlando Magic,Orlando,FL
+PHI,Philadelphia 76ers,Philadelphia,PA
+PHO,Phoenix Suns,Phoenix,AR
+PHW,Philadelphia Warriors,Philadelphia,PA
+POR,Portland Trail Blazers,Portland,OR
+ROC,Rochester Royals,Rochester,NY
+SAC,Sacramento Kings,Sacramento,CA
+SAS,San Antonio Spurs,San Antonio,TX
+SDC,San Diego Clippers,San Diego,CA
+SDR,San Diego Rockets,San Diego,CA
+SEA,Seattle SuperSonics,Seattle,WA
+SFW,San Francisco Warriors,San Francisco,CA
+STL,St. Louis Hawks,St. Louis,MO
+SYR,Syracuse Nationals,Syracuse,NY
+TOR,Toronto Raptors,Toronto,CN
+TRI,Tri-Cities Blackhawks,Moline,IL
+UTA,Utah Jazz,Salt Lake City,UT
+VAN,Vancouver Grizzlies,Vancouver,CN
+WAB,Washington Bullets,Washington,DC
+WAS,Washington Wizards,Washington,DC
+BKN,Brooklyn Nets,Brooklyn,NY
+CHA,Charlotte Hornets,Charlotte,NC
+NOP,New Orleans Pelicans,New Orleans,LA
