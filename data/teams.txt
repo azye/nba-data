@@ -4,7 +4,6 @@ BAL,Baltimore Bullets,Baltimore,MD
 BOS,Boston Celtics,Boston,MA
 BUF,Buffalo Braves,Buffalo,NY
 CAP,Capital Bullets,Washington,DC
-CHA,Charlotte Bobcats,Charlotte,NC
 CHI,Chicago Bulls,Chicago,IL
 CHP,Chicago Packers,Chicago,IL
 CHZ,Chicago Zephyrs,Chicago,IL
