@@ -170,17 +170,5 @@ object Q1 {
     .collect().sortBy(_._1).foreach(println(_))
   }
   
-    def main(args: Array[String]) = {
-      Logger.getLogger("org").setLevel(Level.OFF)
-      Logger.getLogger("akka").setLevel(Level.OFF)
-      System.setProperty("hadoop.home.dir", "c:/winutils")
-      val conf = new SparkConf().setAppName("project").setMaster("local[4]")
-      val sc = new SparkContext(conf)
-      
-      val playerName = "Stephen Curry"
-      
-      
-
-    }
     
 }
