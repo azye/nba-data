@@ -8,7 +8,7 @@ import scala.collection._
 import org.apache.spark.api.java.JavaSparkContext
 
 
-object App {
+object Usg {
 
 	//this function just calculates USG for each player
 	def usg() {
@@ -155,4 +155,4 @@ object App {
 }
 
 
-App.avgUSGByTeam
+//Usg.avgUSGByTeam
