@@ -8,7 +8,7 @@ import org.apache.spark.rdd.RDD.rddToPairRDDFunctions
  * Player,Pos,Age,Team,GP,GS,MIN,FGM,FGA,3PM,3PA,2PM,2PA,FTM,FTA,ORB,DRB,AST,STL,BLK,TOV,PF,PTS,Year
  * 
  */
-object Q1 {
+object Per48 {
   
   /**
    * Returns the players per 48 minutes of the given stat over all their years of play
@@ -169,6 +169,5 @@ object Q1 {
     .map({ case (nameYear, stat) => (nameYear.split(": ")(1), nameYear.split(": ")(0), stat)})
     .collect().sortBy(_._1).foreach(println(_))
   }
-  
     
 }
